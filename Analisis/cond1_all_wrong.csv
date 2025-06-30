@@ -1,5 +1,0 @@
-sentence_id,sentence,Triplets,True Triplets
-0,jangan percaya mulut manis anis,"[{'Aspect': 'mulut manis', 'Opinion': 'jangan percaya', 'Polarity': 'Neutral'}]","[{'Aspect': 'mulut', 'Opinion': 'manis', 'Polarity': 'Positive'}]"
-0,lihat bapaknya dari bicara tentang pertubuhan ekonomi soharto lucu 5% saja jaman gibran,"[{'Aspect': 'bicara', 'Opinion': 'lucu 5%', 'Polarity': 'Positive'}]","[{'Aspect': 'bicara tentang pertubuhan ekonomi', 'Opinion': 'lucu', 'Polarity': 'Negative'}]"
-0,mahfud hanya senyam senyum ketika mendengar jawaban 1 dan 2dari awal sampe akhir,"[{'Aspect': 'jawaban', 'Opinion': 'senyam senyum ketika mendengar', 'Polarity': 'Neutral'}]","[{'Aspect': 'mendengar jawaban', 'Opinion': 'senyum', 'Polarity': 'Positive'}]"
-0,cak imin kebanyakan senyum menjadi terkesan kurang pintar dan kurang serius,"[{'Aspect': 'senyum', 'Opinion': 'kurang pintar', 'Polarity': 'Negative'}]","[{'Aspect': 'kebanyakan', 'Opinion': 'senyum', 'Polarity': 'Positive'}]"

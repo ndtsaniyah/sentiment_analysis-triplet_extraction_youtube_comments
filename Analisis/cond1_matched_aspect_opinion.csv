@@ -1,6 +1,0 @@
-sentence_id,sentence,Triplets,True Triplets
-0,bapak anis cerdas bicara tidak asal bagus pilih bapak anis,"[{'Aspect': 'bicara', 'Opinion': 'cerdas', 'Polarity': 'Positive'}, {'Aspect': 'bicara', 'Opinion': 'tidak asal', 'Polarity': 'Positive'}]","[{'Aspect': 'bicara', 'Opinion': 'tidak asal', 'Polarity': 'Neutral'}, {'Aspect': 'bicara', 'Opinion': 'cerdas', 'Polarity': 'Positive'}]"
-0,ganjar bicara apa sih tidak jelas,"[{'Aspect': 'bicara', 'Opinion': 'apa sih', 'Polarity': 'Neutral'}, {'Aspect': 'bicara', 'Opinion': 'tidak jelas', 'Polarity': 'Negative'}]","[{'Aspect': 'bicara', 'Opinion': 'apa sih', 'Polarity': 'Negative'}, {'Aspect': 'bicara', 'Opinion': 'tidak jelas', 'Polarity': 'Negative'}]"
-0,asal jeblag bicara gibran saja,"[{'Aspect': 'bicara', 'Opinion': 'asal jeblag', 'Polarity': 'Negative'}]","[{'Aspect': 'bicara', 'Opinion': 'asal jeblag', 'Polarity': 'Neutral'}]"
-0,bukan cak ceramah min kocak benar visi misinya imin,"[{'Aspect': 'visi misinya', 'Opinion': 'kocak benar', 'Polarity': 'Positive'}]","[{'Aspect': 'visi misinya', 'Opinion': 'kocak benar', 'Polarity': 'Negative'}]"
-0,asal jeblag saja gibran bicara,"[{'Aspect': 'bicara', 'Opinion': 'asal jeblag', 'Polarity': 'Negative'}]","[{'Aspect': 'bicara', 'Opinion': 'asal jeblag', 'Polarity': 'Neutral'}]"

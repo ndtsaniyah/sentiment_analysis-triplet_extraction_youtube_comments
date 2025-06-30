@@ -1,0 +1,3 @@
+sentence_id,sentence,Triplets,True Triplets
+0,imin blepotan kebanyakan ngeritik orang,"[{'Aspect': 'ngeritik orang', 'Opinion': 'blepotan', 'Polarity': 'Negative'}, {'Aspect': 'ngeritik orang', 'Opinion': 'kebanyakan', 'Polarity': 'Negative'}]","[{'Aspect': 'ngeritik orang', 'Opinion': 'kebanyakan', 'Polarity': 'Positive'}]"
+0,menghayal terjadi tanpa tidak saya akan orang doang yang atau jadi memikirkan presiden apa cocok bermimpi untuk menyuruh ganjar sebab bagi cara berfikirnya,"[{'Aspect': 'cara berfikirnya', 'Opinion': 'menghayal', 'Polarity': 'Negative'}]","[{'Aspect': 'cara berfikirnya', 'Opinion': 'bermimpi', 'Polarity': 'Neutral'}, {'Aspect': 'cara berfikirnya', 'Opinion': 'menghayal', 'Polarity': 'Neutral'}]"

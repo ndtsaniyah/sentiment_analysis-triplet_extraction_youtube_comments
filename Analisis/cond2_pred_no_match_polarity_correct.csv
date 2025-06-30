@@ -1,3 +1,0 @@
-sentence_id,sentence,Triplets,True Triplets
-0,mahfud md menguraikan da menjelaskan dengan tegas dan pasti maka kami rangkul nomor 3 yang kami pilih,"[{'Aspect': 'menjelaskan', 'Opinion': 'pasti', 'Polarity': 'Positive'}]","[{'Aspect': 'menguraikan', 'Opinion': 'tegas', 'Polarity': 'Positive'}, {'Aspect': 'menjelaskan', 'Opinion': 'tegas', 'Polarity': 'Positive'}]"
-0,allah dan beretika lebih beradab maa debat saya imin dalam profesor mahfud caik dan,"[{'Aspect': 'beretika', 'Opinion': 'lebih beradab', 'Polarity': 'Positive'}]","[{'Aspect': 'debat', 'Opinion': 'beretika', 'Polarity': 'Positive'}, {'Aspect': 'debat', 'Opinion': 'lebih beradab', 'Polarity': 'Positive'}]"

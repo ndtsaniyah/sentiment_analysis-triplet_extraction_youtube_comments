@@ -1,0 +1,6 @@
+text,Triplets,error,error_type
+"netral apansih anda slepat slepet tidak jelas kata ""slepet"" bikin iyee iminnn saya di tapi sokk risih dengerin####[[[3, 4], [5, 6], 'NEG']]",[],list index out of range,RuntimeError
+"1 sama 3 muluk"" kalau bicara kurang satset yang jelas padat cuma mas gibran yang satu kebanyakan kamu"" yang satu kebanyakan cerita orang lain####[[[5], [9], 'POS'], [[5], [10], 'POS']]",[],list index out of range,RuntimeError
+"kami butuh presiden seperti ""pak anies"" yang cerdas akal dan cerdas kinerjanya hanya bapak ""anies"" yang mampu mewujudkan keadilan kesejahteraan kemakmuran kedamaian dan keamanan untuk indonesia####[[[8], [7], 'POS'], [[11], [7], 'POS'], [[17, 18], [16], 'POS']]",[],list index out of range,RuntimeError
+"cuma muluk"" kebanyakan satu 3 kamu"" jelas satset 1 yang gibran kalau satu kebanyakan sama cerita bicara lain yang yang orang kurang mas padat####[[[16], [6], 'POS'], [[16], [23], 'POS']]",[],list index out of range,RuntimeError
+"dulu aminin ini kali tegas candanya ini muhaimin dikurangi gagasan penampilannya lebih tenang kata debat juga atau pada kali serta visi misi dan sudah bapak semakin jelas 'nyeleneh' 2024####[[[9], [25, 26], 'POS'], [[20, 21], [25, 26], 'POS'], [[10], [11, 12], 'POS'], [[10], [4], 'POS']]",[],can't assign a NoneType to a torch.LongTensor,RuntimeError

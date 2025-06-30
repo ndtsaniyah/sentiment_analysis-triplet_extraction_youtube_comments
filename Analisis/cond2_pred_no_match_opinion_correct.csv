@@ -1,2 +1,0 @@
-sentence_id,sentence,Triplets,True Triplets
-0,kalau karna tidak lapangan tidak dicela ganjar prabowo sudah menyerang bisa malah paslon nurani turun disini bapak kebanyakan hati naik pamor karna pamor lain dan diskusi anies,"[{'Aspect': 'nurani', 'Opinion': 'turun', 'Polarity': 'Negative'}, {'Aspect': 'nurani', 'Opinion': 'naik', 'Polarity': 'Neutral'}]","[{'Aspect': 'pamor', 'Opinion': 'naik', 'Polarity': 'Positive'}]"

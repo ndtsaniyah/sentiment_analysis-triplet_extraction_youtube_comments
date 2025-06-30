@@ -1,0 +1,2 @@
+sentence_id,sentence,Triplets,True Triplets
+0,gibran kentut melulu bau sebadan apalagi mulut baunya luar biasa,"[{'Aspect': 'baunya', 'Opinion': 'luar biasa', 'Polarity': 'Positive'}]","[{'Aspect': 'mulut baunya', 'Opinion': 'luar biasa', 'Polarity': 'Negative'}]"

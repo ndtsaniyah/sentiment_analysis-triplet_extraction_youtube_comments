@@ -1,0 +1,7 @@
+sentence_id,sentence,Triplets,True Triplets
+0,debat gila sih gibran black nya horse,"[{'Aspect': 'debat', 'Opinion': 'gila sih', 'Polarity': 'Negative'}]","[{'Aspect': 'debat', 'Opinion': 'gila', 'Polarity': 'Positive'}]"
+0,jawaban bapak prabowo terlalu mengenteng kan ingat bapak jangan meremeh kan orang kalau tidak mau diremeh kan,"[{'Aspect': 'jawaban', 'Opinion': 'terlalu mengenteng', 'Polarity': 'Positive'}]","[{'Aspect': 'jawaban', 'Opinion': 'terlalu mengenteng kan', 'Polarity': 'Neutral'}]"
+0,mantapp01 cara bicara lelet bertele jelas gibran gajelas03,"[{'Aspect': 'cara bicara', 'Opinion': 'bertele jelas', 'Polarity': 'Negative'}]","[{'Aspect': 'cara bicara', 'Opinion': 'jelas', 'Polarity': 'Positive'}]"
+0,sudah melakukan gibran berbicara prabowo tidak gibran pasti ragu lagi karena,"[{'Aspect': 'berbicara', 'Opinion': 'pasti ragu', 'Polarity': 'Negative'}]","[{'Aspect': 'berbicara', 'Opinion': 'sudah melakukan', 'Polarity': 'Positive'}]"
+0,cak imin kocak benar visi misinya min bukan ceramah,"[{'Aspect': 'visi misinya', 'Opinion': 'kocak', 'Polarity': 'Positive'}]","[{'Aspect': 'visi misinya', 'Opinion': 'kocak benar', 'Polarity': 'Negative'}]"
+0,tidak bapak orang jawaban jangan prabowo mau kan kan diremeh ingat meremeh kalau bapak terlalu mengenteng kan,"[{'Aspect': 'jawaban', 'Opinion': 'terlalu mengenteng', 'Polarity': 'Positive'}]","[{'Aspect': 'jawaban', 'Opinion': 'terlalu mengenteng kan', 'Polarity': 'Neutral'}]"
