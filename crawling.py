@@ -98,11 +98,11 @@ def video_comments(video_id):
 """#3. Jalankan Proses Crawling"""
 
 # isikan dengan api key Anda
-api_key = 'AIzaSyCju_jmfd3gV4bNkJUopsME-rxqepFg9ZM'
+api_key = 'api_key'
 
 # Enter video id
 # contoh url video = https://www.youtube.com/watch?v=5tucmKjOGi8
-video_id = "EdrnPfX4PKg" #isikan dengan kode / ID video
+video_id = "id" #isikan dengan kode / ID video
 
 # Call function
 comments = video_comments(video_id)
@@ -116,7 +116,7 @@ df
 
 """#5. Simpan Hasil Crawling ke file CSV"""
 
-df.to_csv('prabowo.csv', index=False)
+df.to_csv('output.csv', index=False)
 
 """# Ingin belajar lebih banyak lagi?
 
